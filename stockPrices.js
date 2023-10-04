@@ -1,3 +1,4 @@
+/// These Stock Prices have been recorded on the hour, beginning at midnight.  Therefore stockPrices[0] is recorded at 12am and stockPrices[24] is recorded at 11pm.
 const stockPrices = [
   12, 56, 34, 2, 8, 5, 34, 90, 65, 34, 89, 23, 5, 1, 67, 34, 98, 3, 21, 54, 77,
   62, 54, 167,
